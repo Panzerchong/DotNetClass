@@ -1,8 +1,20 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿<h1>@ViewBag.Title
+	ViewBag.Title
+</h1>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+@if(true)
+{
+	<div>Inside If</div>
+}
+else
+{
+	<div>inside Else</div>
+}
+@model List<ApplicationCore.Models.MovieCard>
+
+@foreach(var movie in Model)
+{
+	<div>@movie.Id</div>
+	<div>@movie.Title</div>
+	<img src="@movie.PosterUrl" alt="@movie.Title">
+}

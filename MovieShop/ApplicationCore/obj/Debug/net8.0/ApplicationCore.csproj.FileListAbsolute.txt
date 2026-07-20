@@ -1,0 +1,12 @@
+C:\Users\panze\.NetClass\.NetClassHomework\MovieShop\ApplicationCore\bin\Debug\net8.0\ApplicationCore.deps.json
+C:\Users\panze\.NetClass\.NetClassHomework\MovieShop\ApplicationCore\bin\Debug\net8.0\ApplicationCore.dll
+C:\Users\panze\.NetClass\.NetClassHomework\MovieShop\ApplicationCore\bin\Debug\net8.0\ApplicationCore.pdb
+C:\Users\panze\.NetClass\.NetClassHomework\MovieShop\ApplicationCore\obj\Debug\net8.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panze\.NetClass\.NetClassHomework\MovieShop\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\panze\.NetClass\.NetClassHomework\MovieShop\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\panze\.NetClass\.NetClassHomework\MovieShop\ApplicationCore\obj\Debug\net8.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\panze\.NetClass\.NetClassHomework\MovieShop\ApplicationCore\obj\Debug\net8.0\ApplicationCore.sourcelink.json
+C:\Users\panze\.NetClass\.NetClassHomework\MovieShop\ApplicationCore\obj\Debug\net8.0\ApplicationCore.dll
+C:\Users\panze\.NetClass\.NetClassHomework\MovieShop\ApplicationCore\obj\Debug\net8.0\refint\ApplicationCore.dll
+C:\Users\panze\.NetClass\.NetClassHomework\MovieShop\ApplicationCore\obj\Debug\net8.0\ApplicationCore.pdb
+C:\Users\panze\.NetClass\.NetClassHomework\MovieShop\ApplicationCore\obj\Debug\net8.0\ref\ApplicationCore.dll
