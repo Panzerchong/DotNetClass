@@ -14,3 +14,5 @@ C:\Users\panze\.NetClass\.NetClassHomework\MovieShop\Infrastructure\obj\Debug\ne
 C:\Users\panze\.NetClass\.NetClassHomework\MovieShop\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 C:\Users\panze\.NetClass\.NetClassHomework\MovieShop\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\panze\.NetClass\.NetClassHomework\MovieShop\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\panze\.NetClass\.NetClassHomework\MovieShop\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\panze\.NetClass\.NetClassHomework\MovieShop\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
